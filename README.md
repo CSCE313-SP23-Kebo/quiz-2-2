@@ -31,4 +31,3 @@ The second process should:
 1. For both exec calls, set the first argument, `argv[0]` in the new program, to be the filename component of the pathname. 
 1. We provided the program echoall.c that should be executed by both processes. Compile echoall.c and move the executable to a directory in your `$PATH`.
 1. Refer to the sample output [expected_output.txt](expected_output.txt) as an example
-1. **Include your terminal output in a file `result_output.txt`**
